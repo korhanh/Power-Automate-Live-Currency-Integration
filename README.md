@@ -1,4 +1,4 @@
-# 🚀 Free & Unlimited Power Automate Live Currency Integration (Zeta Leap API)
+# 🚀 Free & Unlimited Power Automate Live Currency Integration
 
 This repository provides a step-by-step guide on how to integrate real-time currency exchange rates into your Power Automate flows using the **Zeta Leap Global Currency Engine API**. Best of all? It offers **100% free and unlimited** access, making it the perfect solution for RPA developers handling automated invoicing, financial reporting, or international data entry without worrying about rate limits or hidden costs.
 
